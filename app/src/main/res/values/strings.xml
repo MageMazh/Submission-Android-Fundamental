@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListGithub</string>
+    <string name="searchbar_hint">which user you want to search for</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="menu_1">Favorite</string>
+    <string name="menu_2">Setting</string>
+</resources>
